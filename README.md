@@ -1,1 +1,3 @@
-![achievement](./metrics.plugin.achievements.svg)
+| ![achievement](./metrics.plugin.achievements.svg) |
+|---------------------------------------------------|
+| never gonna give you up =)                        |
