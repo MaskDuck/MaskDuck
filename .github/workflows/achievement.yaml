@@ -3,10 +3,13 @@ on:
   - cron: "5 * * * *"
 jobs:
   achievement:
-    name: Detailed display
-    uses: lowlighter/metrics@latest
-    with:
-      filename: metrics.plugin.achievements.svg
-      token: ${{ secrets.METRICS_TOKEN }}
-      base: ""
-      plugin_achievements: yes
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate image 
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+      
