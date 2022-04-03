@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-  - cron: "5 * * * *"
+  - cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
 jobs:
   achievement:
     runs-on: ubuntu-latest
@@ -17,6 +17,7 @@ jobs:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_achievements_display: compact
           plugin_achievements: yes
         
       
