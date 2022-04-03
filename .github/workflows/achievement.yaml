@@ -4,12 +4,20 @@ on:
 jobs:
   achievement:
     runs-on: ubuntu-latest
+    name: Generate achievement image 
     steps:
-      - name: generate image 
-      - uses: lowlighter/metrics@latest
+      - name: "Checkout repo"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: "Generate"
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
+        
+      
+        
       
