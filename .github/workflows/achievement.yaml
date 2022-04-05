@@ -18,7 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           repositories_affiliations: organization_member
-          plugin_achievements_display: compact
           plugin_achievements: yes
         
       
