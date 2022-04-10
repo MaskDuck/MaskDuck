@@ -15,8 +15,8 @@ jobs:
       - name: "Generate"
         uses: lowlighter/metrics@latest
         with:
-          
-          filename: metrics.plugin.fortune.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_fortune: yes
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: MaskDuck
+          base: header
+          plugin_introduction: yes
