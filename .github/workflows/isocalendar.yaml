@@ -1,0 +1,21 @@
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
+jobs:
+  achievement:
+    runs-on: ubuntu-latest
+    name: Generate isocalendar image 
+    steps:
+      - name: "Checkout repo"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: "Generate"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
