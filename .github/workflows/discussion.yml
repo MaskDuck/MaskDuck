@@ -5,7 +5,7 @@ on:
 jobs:
   achievement:
     runs-on: ubuntu-latest
-    name: Generate achievement image 
+    name: Generate activity image 
     steps:
       - name: "Checkout repo"
         uses: actions/checkout@v2
@@ -14,12 +14,8 @@ jobs:
       - name: "Generate"
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.svg
+          filename: metrics.plugin.discussions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          repositories_affiliations: organization_member
-          plugin_achievements: yes
-        
-      
-        
-      
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
