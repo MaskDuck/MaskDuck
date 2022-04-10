@@ -6,4 +6,4 @@ Right now, I am going to being less responsive, possible no activity on GitHub. 
 
 If you want to help me, feel free to donate to Vietnam COVID-19 Vaccine Fundation [here](https://quyvacxincovid19.gov.vn/eng).
 
-Thanks for reading this, and hope you understand things I wrote below.
+Thanks for reading this, and hope you understand things I wrote below. I appreciate all the kind words, and every donation Vietnam receive during this pandemic.
