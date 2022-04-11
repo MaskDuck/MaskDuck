@@ -1,0 +1,22 @@
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "0,5,10,15,20,25,30,35,40,45,50,55 * * * *"
+  push:
+jobs:
+  achievement:
+    runs-on: ubuntu-latest
+    name: Generate activity image 
+    steps:
+      - name: "Checkout repo"
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: "Generate"
+        uses: lowlighter/metrics@latest
+        with:
+          
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
