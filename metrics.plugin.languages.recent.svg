@@ -22,9 +22,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="396.96793002915456" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="396.96793002915456" y="0" width="34.42176870748299" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="431.3896987366375" y="0" width="28.610301263362487" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.02912621359224" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="397.02912621359224" y="0" width="34.38834951456311" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="431.41747572815535" y="0" width="28.582524271844658" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,8 +36,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>888 bytes</div>
-                                <div>86.3%</div>
+                                <div>889 bytes</div>
+                                <div>86.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                             </div>
                             <small>
                                 <div>64 bytes</div>
-                                <div>6.22%</div>
+                                <div>6.21%</div>
                             </small>
                         </div>
                     </section>
