@@ -22,8 +22,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.62264150943395" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="429.62264150943395" y="0" width="30.37735849056604" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.4918173987941" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.4918173987941" y="0" width="30.508182601205856" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.09 kB</div>
-                                <div>93.4%</div>
+                                <div>1.08 kB</div>
+                                <div>93.37%</div>
                             </small>
                         </div>
                     </section>
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>77 bytes</div>
-                                <div>6.6%</div>
+                                <div>6.63%</div>
                             </small>
                         </div>
                     </section>
