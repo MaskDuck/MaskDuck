@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="121" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="141" class="">
     <defs>
         <style/>
     </defs>
@@ -16,14 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 50.9kb of code in 77 edited files across 82 commits over last 8 days</small>
+                <small>estimation from 51kb of code in 78 edited files across 80 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.7418895845191" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.7418895845191" y="0" width="2.2581104154809335" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.3649222065063" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.3649222065063" y="0" width="2.2446958981612446" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.6096181046676" y="0" width="0.39038189533239037" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +36,20 @@
                                 Python
                             </div>
                             <small>
-                                <div>13.9 kB</div>
-                                <div>99.51%</div>
+                                <div>14 kB</div>
+                                <div>99.43%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TypeScript
+                            </div>
+                            <small>
+                                <div>12 bytes</div>
+                                <div>0.08%</div>
                             </small>
                         </div>
                     </section>
