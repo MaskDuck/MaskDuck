@@ -1,1 +1,1 @@
-tbh super idol and rickroll is a great song
+tbh super idol is a great song
