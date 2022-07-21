@@ -1,1 +1,1 @@
-tbh super idol is a great song
+epic isnt more epic than epic
