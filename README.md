@@ -1,2 +1,1 @@
-epic isnt more epic than epic <br>
-btw im following epic
+ubuntu is gud for ur health
