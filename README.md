@@ -1,1 +1,3 @@
-[i use arch btw](https://iusearchbt
+[i use arch btw](https://iusearchbtw.lol)
+
+
