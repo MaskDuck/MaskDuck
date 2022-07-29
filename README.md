@@ -1,1 +1,1 @@
-ubuntu is gud for ur health
+[i use arch btw](https://iusearchbt
