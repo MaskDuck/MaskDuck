@@ -1,4 +1,10 @@
-everything is dangerous 
+psycho who lives and breathes shitcoding
+
+
+
+
+
+
 
 
 
