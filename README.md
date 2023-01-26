@@ -1,6 +1,1 @@
-- Please buy abc from Sponsor Company ABC
-- Is that good?
-- No.
-- You forgot a thing.
-- What did I forget?
-- Not suitable for pregnant woman and children under 18 years old.
+![image](https://user-images.githubusercontent.com/70831061/214782519-e3f2246a-7f22-4a50-b944-386ced3b18cf.png)
