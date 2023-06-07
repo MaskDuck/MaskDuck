@@ -1,3 +1,2 @@
-[Dù em đã cố gắng quên chuyện quá khứ, nhưng đâu muốn quên là sẽ quên.](https://www.youtube.com/watch?v=_8vekzCF04Q) <br>
-[Những tổn thương ấy luôn ở đây, chẳng qua là em giả vờ mình không thấy.](https://www.youtube.com/watch?v=_8vekzCF04Q)
-
+literally the book I read when developing Parcae:
+![image](https://github.com/MaskDuck/MaskDuck/assets/70831061/30a56abe-546c-4590-bcc9-115593995db0)
