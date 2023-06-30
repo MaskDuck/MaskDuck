@@ -1,2 +1,1 @@
-literally the book I read when coding: <br>
-![image](https://github.com/MaskDuck/MaskDuck/assets/70831061/30a56abe-546c-4590-bcc9-115593995db0)
+![image](https://github.com/MaskDuck/MaskDuck/assets/70831061/b16b0e6b-b273-4424-8199-2e3d80675508)
